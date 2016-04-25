@@ -1,4 +1,4 @@
-# pairphone
+# PairPhone
 The effort for P2P private talk over GSM-FR compressed voice channel
 
 PairPhone is the crossplatform testing software provides p2p speech 
