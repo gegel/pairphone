@@ -41,8 +41,8 @@ of about 5 times.
 
 Web page: http://torfone.org/pairphone
 Docs: http://torfone.org/download/pp1a_doc.pdf
-Binary for Linux: http://torfone.org/download/pp1a_lin.zip
-Binary for Windows: http://torfone.org/download/pp1a_win.zip
+Binaries(Windows, Linux): http://torfone.org/download/pp1a_bin.zip
+
 Contact:  «Van Gegel» <torfone@ukr.net>
 
 
