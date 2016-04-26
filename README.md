@@ -40,7 +40,9 @@ samples rate instead of 48 kHz thus reduce the computational complexity
 of about 5 times.
 
 Web page: http://torfone.org/pairphone
+
 Docs: http://torfone.org/download/pp1a_doc.pdf
+
 Binaries(Windows, Linux): http://torfone.org/download/pp1a_bin.zip
 
 Contact:  «Van Gegel» <torfone@ukr.net>
